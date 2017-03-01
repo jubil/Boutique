@@ -1,0 +1,96 @@
+h1, h2 {
+	text-align: center;
+}
+
+header h1 {
+	margin-top:0px;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 10px;
+	
+	width:75%;
+	
+	background-color: #01354B;
+	color: #CE7589;	
+	
+	border: 3px solid black;
+	border-radius: 0px 0px 40px 40px;
+	-moz-border-radius: 0px 0px 40px 40px;
+	-webkit-border-radius: 0px 0px 40px 40px;
+}
+
+nav {
+	background-color: #CE7589;
+	border: 3px solid black;
+	border-radius: 40px 40px 0px 0px;
+	-moz-border-radius: 40px 40px 0px 0px;
+	-webkit-border-radius: 40px 40px 0px 0px;
+}
+
+nav form input, nav form p {
+	margin-left: 5%;
+	width: 85%;
+}
+
+nav h2 {
+	margin: auto auto;
+	border-bottom: 3px solid black;
+}
+
+body {
+	margin-top:0px;
+	background-image: url(img/site/bg.jpg);
+}
+
+nav {
+	float: left;
+	width: 15%;
+}
+
+section {
+	float: right;
+	width: 82%;
+	margin-bottom: 20px;
+}
+
+section h2 {
+	margin: auto;
+	background-color: #CE7589;
+	color: #black;
+	width: 33%;
+	border: 3px solid black;
+	border-bottom-width:0px;
+	border-radius: 40px 40px 0px 0px;
+	-moz-border-radius: 40px 40px 0px 0px;
+	-webkit-border-radius: 40px 40px 0px 0px;
+}
+
+footer {
+	margin-bottom:0px;
+	clear: both;
+	padding:10px;
+	background-color: #CE7589;
+	border-top: 3px solid black;
+	border-radius: 40px 40px 0px 0px;
+	-moz-border-radius: 40px 40px 0px 0px;
+	-webkit-border-radius: 40px 40px 0px 0px;
+}
+
+table {
+	margin: auto;
+	width: 90%;
+	text-align: center;
+	border-top: 3px solid black;
+	border-collapse: collapse;
+}
+
+td {
+	background-color: #CE7589;
+	padding-top: 15px;
+	border: 3px solid black;
+	border-top-width: 0px;
+}
+
+img {
+	border: 3px solid black;
+}
